@@ -1,6 +1,7 @@
 Power-BI-Visualization-Project
 This repository contains Visualization Projects which is visualized through Power BI Software, by using the visualization we can gain multiple insights and strategies which helps to develop the business for gaining high profit margins and by the insights we can reduce the damages by accidents & calamities.
 
+
 The dataset is the survey data of 630 Data Professionals about their Job Role, Average Salary, Job Satisfaction, etc.
 The data has the survey from 630 unique persons from different platforms about their Jobs, Personal Data such as Age, Gender, Ethnicity, Country.
 The data also has the Academic Qualifications, Salary, Working Field, etc.
